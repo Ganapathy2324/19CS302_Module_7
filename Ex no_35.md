@@ -37,7 +37,7 @@ printf("Data added Successfully");
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/7f19090d-df95-4c0a-b411-7a926ff02ebf)
+![image](https://github.com/user-attachments/assets/217e4d4e-373e-4ef8-962b-3af24de0e7e9)
 
 
 ## Result:
